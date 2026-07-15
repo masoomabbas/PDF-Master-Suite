@@ -1,1 +1,41 @@
-PDF Master Suite is committed to protecting your privacy. This policy explains how we handle information when you use our app.", "Information We Collect" to "We do NOT collect, store, or upload your PDF files to any server. All PDF processing happens entirely on your device.", "Advertising (AdMob)" to "Our app uses Google AdMob for advertising. AdMob may collect device identifiers and usage data.", "File Access" to "The app accesses storage only to read and save files on your device.", "Internet Permission" to "Internet access is used only for Google AdMob advertisements.", "Children's Privacy" to "Our app is not directed to children under 13.", "Contact" to "Questions? Email us: abbas_abid69@yahoo.com"
+Privacy policy 
+PDF Master Suite ("we", "our", or "the app") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our application.
+Information We Collect
+We do not collect, store, or upload your PDF files or personal documents to any server. All PDF processing—including viewing, compressing, extracting text, watermarking, and converting—takes place entirely on your device.
+Advertising (Google AdMob)
+Our app uses Google AdMob to display advertisements, including banner ads and rewarded ads. AdMob may collect:
+Device identifiers (Android Advertising ID)
+IP address
+App usage and interaction data
+Device information (such as model and operating system version)
+This data is used by Google for ad personalization, measurement, and fraud prevention.
+GDPR Compliance (EEA and UK Users)
+For users in the European Economic Area (EEA) and the United Kingdom, we use Google's User Messaging Platform (UMP), a Google-certified Consent Management Platform (CMP), to obtain consent before showing personalized ads or using data for advertising purposes, in compliance with the GDPR and the ePrivacy Directive.
+You can review, change, or withdraw your consent at any time by opening the app menu and selecting "Ad Privacy Options."
+Ad Personalization Opt-Out
+You can opt out of personalized advertising through your Android device settings:
+Android Settings → Google → Ads → Delete Advertising ID (or "Opt out of Ads Personalization")
+Rewarded Advertisements
+Some features in this app offer optional rewarded ads. Watching a rewarded ad is never required to use the app's core features. Viewing, compressing, extracting text, watermarking, and converting PDFs remain available regardless of whether you watch an ad.
+File Access Permissions
+The app requests storage access only to:
+Read PDF files that you explicitly select.
+Save processed files (compressed, watermarked, converted, etc.) on your device.
+We never access, read, or transmit files that you have not selected within the app.
+Internet Permission
+Internet access is used only to serve Google AdMob advertisements. Your PDF files, extracted text, and document content are never uploaded or transmitted over the internet.
+Data Retention
+We do not store user data on our servers because we do not operate servers that receive your files. All processed files remain on your device and can be deleted at any time using the app's Recent Files screen or your device's file manager.
+Children's Privacy
+This app is not intended for children under 13 years of age. We do not knowingly collect personal information from children. Our AdMob configuration is set to serve general-audience ads and is not configured for child-directed treatment under COPPA.
+Third-Party Services
+This app uses:
+Google AdMob
+Privacy Policy: https://policies.google.com/privacy⁠�
+Your Rights
+Depending on your location, you may have rights under applicable data protection laws, including the right to access, correct, or delete your data, and the right to withdraw consent for ad personalization at any time through the app's Ad Privacy Options or your device settings.
+Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated Last updated date.
+Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+abbas_abid69@yahoo.com
