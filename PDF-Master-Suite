@@ -10,11 +10,11 @@ We do not collect, store, or upload your PDF files, photos, scanned documents, o
 
 Camera & Photo Tools
 
-The Document Scanner, Passport Photo Maker, Background Remover, and Old Photo Restore tools may request access to your Camera and Photo Library. These tools use Google ML Kit (on-device face detection, on-device subject/background segmentation) and Google's Document Scanner (Play Services module) to process images directly on your device. Your photos and scanned documents are never uploaded to us or to any third party, and remain fully usable without an internet connection.
+The Document Scanner, Passport Photo Maker, Background Remover, and Old Photo Restore tools may request access to your Camera and Photo Library. These tools use Google ML Kit (on-device face detection, on-device subject/background segmentation) and Google's Document Scanner (Play Services module) to process images directly on your device. Your photos and scanned documents are never uploaded to us or to any third party.
 
 Text Scanner (OCR) & Sign PDF
 
-The Text Scanner tool recognizes text from a photo or scanned page using Google ML Kit's on-device text recognition — this works offline and nothing is uploaded. The Sign PDF tool lets you draw a signature that is embedded directly into your own copy of a PDF on your device; your signature and the document never leave your phone.
+The Text Scanner tool recognizes text from a photo or scanned page using Google ML Kit's on-device text recognition, so the recognition itself never uploads your content. The Sign PDF tool lets you draw a signature that is embedded directly into your own copy of a PDF on your device; your signature and the document never leave your phone.
 
 Advertising (Google AdMob)
 
@@ -41,7 +41,7 @@ Android Settings → Google → Ads → Delete Advertising ID (or "Opt out of Ad
 
 Rewarded Advertisements
 
-Some features in this app offer optional rewarded ads. Watching a rewarded ad is never required to use the app's core features. Viewing, compressing, extracting text, watermarking, converting, scanning, and photo-editing tools remain available regardless of whether you watch an ad.
+Viewing a PDF (View PDF) does not require watching an ad. Most other tools in this app — including Compress PDF, Extract Text, Watermark, PDF to Image, Image to PDF, Document Scanner, Background Remover, Passport Photo Maker, Old Photo Restore, Text Scanner and Sign PDF — require watching a short rewarded ad before each use to unlock the result. Rewarded ads are served by Google AdMob under the same data practices described above.
 
 File Access Permissions
 
@@ -55,7 +55,7 @@ We never access, read, or transmit files that you have not selected or captured 
 
 Internet Permission
 
-Internet access is used only to serve Google AdMob advertisements and, for the Document Scanner and face-detection features, to download the required Google Play Services model component on first use. Your PDF files, photos, scanned documents, extracted text, and other content are never uploaded or transmitted over the internet.
+Internet access is used to serve Google AdMob advertisements (including the rewarded ads required to use most tools) and, for the Document Scanner and face-detection features, to download the required Google Play Services model component on first use. Your PDF files, photos, scanned documents, extracted text, and other content are never uploaded or transmitted over the internet.
 
 Data Retention
 
