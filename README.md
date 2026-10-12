@@ -1,16 +1,21 @@
+**PDF QR Scanner & Photo Tools**
 Privacy Policy
 
-Last updated: October 10, 2026
+Last updated: October 12, 2026
 
-PDF Master Suite ("we", "our", or "the app") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our application, which includes PDF tools, a document scanner, and photo tools such as Passport Photo Maker, Background Remover and Old Photo Restore.
+PDF Master Suite ("we", "our", or "the app") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our application, which includes PDF tools, a QR code and barcode scanner, a document scanner, and photo tools such as Passport Photo Maker, Background Remover and Old Photo Restore.
 
 Information We Collect
 
-We do not collect, store, or upload your PDF files, photos, scanned documents, or other personal files to any server. All processing — including viewing, compressing, extracting text, watermarking, converting, scanning, background removal, passport photo cropping, and photo restoration — takes place entirely on your device.
+We do not collect, store, or upload your PDF files, photos, scanned documents, QR/barcode scans, or other personal files to any server. All processing — including viewing, compressing, extracting text, watermarking, converting, scanning, QR/barcode scanning, background removal, passport photo cropping, and photo restoration — takes place entirely on your device.
 
 Camera & Photo Tools
 
 The Document Scanner, Passport Photo Maker, Background Remover, and Old Photo Restore tools may request access to your Camera and Photo Library. These tools use Google ML Kit (on-device face detection, on-device subject/background segmentation) and Google's Document Scanner (Play Services module) to process images directly on your device. Your photos and scanned documents are never uploaded to us or to any third party.
+
+QR Code Scanner & Barcode Scanner
+
+The QR Code Scanner and Barcode Scanner tools use your Camera to read QR codes and barcodes, and Google ML Kit's on-device barcode recognition (Play Services module) to decode them. You can also choose to scan a QR code or barcode from a photo in your Photo Library instead of using the camera. All detection and decoding happens directly on your device — the camera feed, the photo you select, and the decoded content (such as a link or product code) are never uploaded to us or to any third party.
 
 Text Scanner (OCR) & Sign PDF
 
@@ -41,7 +46,7 @@ Android Settings → Google → Ads → Delete Advertising ID (or "Opt out of Ad
 
 Rewarded Advertisements
 
-Viewing a PDF (View PDF) does not require watching an ad. Most other tools in this app — including Compress PDF, Extract Text, Watermark, PDF to Image, Image to PDF, Document Scanner, Background Remover, Passport Photo Maker, Old Photo Restore, Text Scanner and Sign PDF — require watching a short rewarded ad before each use to unlock the result. Rewarded ads are served by Google AdMob under the same data practices described above.
+Viewing a PDF (View PDF) does not require watching an ad. Most other tools in this app — including QR Code Scanner, Barcode Scanner, Compress PDF, Extract Text, Watermark, PDF to Image, Image to PDF, Document Scanner, Background Remover, Passport Photo Maker, Old Photo Restore, Text Scanner and Sign PDF — require watching a short rewarded ad before each use to unlock the result. Rewarded ads are served by Google AdMob under the same data practices described above.
 
 File Access Permissions
 
@@ -55,7 +60,7 @@ We never access, read, or transmit files that you have not selected or captured 
 
 Internet Permission
 
-Internet access is used to serve Google AdMob advertisements (including the rewarded ads required to use most tools) and, for the Document Scanner and face-detection features, to download the required Google Play Services model component on first use. Your PDF files, photos, scanned documents, extracted text, and other content are never uploaded or transmitted over the internet.
+Internet access is used to serve Google AdMob advertisements (including the rewarded ads required to use most tools) and, for the Document Scanner, face-detection, and QR/barcode-scanning features, to download the required Google Play Services model component on first use. Your PDF files, photos, scanned documents, QR/barcode scans, extracted text, and other content are never uploaded or transmitted over the internet.
 
 Data Retention
 
@@ -72,7 +77,7 @@ This app uses:
 Google AdMob
 Privacy Policy: https://policies.google.com/privacy
 
-Google ML Kit / Google Play Services (on-device face detection, background segmentation, text recognition, and document scanning)
+Google ML Kit / Google Play Services (on-device face detection, background segmentation, text recognition, QR/barcode scanning, and document scanning)
 Privacy Policy: https://policies.google.com/privacy
 
 Your Rights
